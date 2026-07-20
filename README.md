@@ -16,8 +16,7 @@ The architecture uses multiple EC2 instances to provide scalability, reliability
 
 # Architecture
 
-            
-
+![AWS E-Commerce Architecture](https://raw.githubusercontent.com/vaish-sv22/AWS-E-Commerce-Application/main/aws-3-tier-E-Commerce-applicatoin-main/AWS%20E-Commerce.png)
 
 ---
 
