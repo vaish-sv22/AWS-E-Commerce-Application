@@ -16,27 +16,7 @@ The architecture uses multiple EC2 instances to provide scalability, reliability
 
 # Architecture
 
-
-                 Users
-                   |
-                   |
-          Application Load Balancer
-                   |
-        ---------------------------
-        |                         |
-   Frontend EC2              Frontend EC2
-   Apache HTTP               Apache HTTP
-        |                         |
-        -------- Reverse Proxy ----
-                   |
-        ---------------------------
-        |                         |
-    Backend EC2              Backend EC2
-    Flask API                Flask API
-        |                         |
-        -------- Database --------
-                   |
-              MySQL Database
+            
 
 
 ---
