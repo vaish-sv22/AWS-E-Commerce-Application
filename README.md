@@ -226,16 +226,7 @@ Allow database access:
 5. Backend communicates with the database.
 6. Response is returned to the user.
 
----
 
-# Future Enhancements
-
-- Implement Auto Scaling Group
-- Add Amazon RDS MySQL Database
-- Add HTTPS using AWS Certificate Manager
-- Add CI/CD Pipeline using GitHub Actions
-- Add CloudWatch Monitoring
-- Add Docker Containerization
 
 
 
